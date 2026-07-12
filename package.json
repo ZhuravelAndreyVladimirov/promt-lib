@@ -1,0 +1,6 @@
+{
+  "name": "promt-lib",
+  "version": "0.2.0",
+  "description": "A library of reusable prompts for development workflows",
+  "private": true
+}
